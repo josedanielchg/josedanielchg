@@ -2,6 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+* {
+  box-sizing: border-box;
+}
+
+
 body {
   background-color: #f3f4f6; /* Light gray background outside the CV */
   margin: 0;
@@ -21,4 +26,5 @@ body, #app{
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  position: relative;
 }
