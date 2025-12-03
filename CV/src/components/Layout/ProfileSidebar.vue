@@ -1,9 +1,9 @@
 <script setup>
-import BaseButton from '../UI/BaseButton.vue';
+import BaseButton from "../UI/BaseButton.vue";
 
 defineProps({
-  photo: String
-})
+  photo: String,
+});
 </script>
 
 <template>
@@ -16,12 +16,18 @@ defineProps({
     <span>Computer Science Engineering Student from ENSTA</span>
 
     <div class="icons-container">
-      <a href="#"><i class="fab fa-linkedin-in"></i></a>
-      <a href="#"><i class="fab fa-github"></i></a>
-      <a href="#"><i class="fas fa-envelope"></i></a>
+      <a href="https://www.linkedin.com/in/josedanielchacon" target="_blank"
+        ><i class="fab fa-linkedin-in"></i
+      ></a>
+      <a href="https://github.com/josedanielchacon" target="_blank"
+        ><i class="fab fa-github"></i
+      ></a>
+      <a href="#"><i class="fas fa-envelope" target="_blank"></i></a>
     </div>
 
-    <BaseButton href="/cv.pdf" :download="true" variant="primary">Download CV</BaseButton>
+    <BaseButton href="/cv.pdf" :download="true" variant="primary"
+      >Download CV</BaseButton
+    >
   </div>
 </template>
 
@@ -34,6 +40,12 @@ defineProps({
   align-items: center;
   padding: 65px 50px 45px 30px;
   color: #fff;
+}
+
+h1, span {
+  @media (max-width: 950px) {
+    display: none;
+  }
 }
 
 /* The Dotted Effect Logic */

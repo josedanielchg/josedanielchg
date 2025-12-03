@@ -1,0 +1,84 @@
+{
+  "fr": [
+    {
+      "id": "google-data-analytics",
+      "title": "Google Advanced Data Analytics Specialization",
+      "issuer": "Google",
+      "date": "Août 2024",
+      "category": "Data Science",
+      "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_100_100/B4EZmhegXHGcAU-/0/1759350753990/google_logo?e=1766016000&v=beta&t=fR_FqAATCDGeBCo8yxoQR6JtKXDz3Ws5h7gwSacBtGE",
+      "credentialId": "6QHM7DFLGLQR",
+      "link": "https://www.coursera.org/account/accomplishments/specialization/6QHM7DFLGLQR",
+      "skills": ["Machine Learning", "Python", "Tableau", "Analyse Statistique"]
+    },
+    {
+      "id": "mooc-gdp-scrum",
+      "title": "Gestion de Projet — Spécialisation: Agile avec Scrum",
+      "issuer": "MOOC Gestion de Projet",
+      "date": "Nov 2025",
+      "category": "Management",
+      "logo": "https://media.licdn.com/dms/image/v2/C560BAQHwTSGwXD4Axg/company-logo_100_100/company-logo_100_100/0/1631359736037?e=1766016000&v=beta&t=n0Q-5QedYJUGuceuS_3AA9KHJ6BzOTuqtfL5xMEOqdw",
+      "credentialId": "7561c959f2cf",
+      "skills": ["Scrum", "Méthodes Agiles", "Gestion d'équipe"]
+    },
+    {
+      "id": "mooc-gdp-team",
+      "title": "Gestion de Projet — Management d'Équipe Projet",
+      "issuer": "MOOC Gestion de Projet",
+      "date": "Nov 2025",
+      "category": "Management",
+      "logo": "https://media.licdn.com/dms/image/v2/C560BAQHwTSGwXD4Axg/company-logo_100_100/company-logo_100_100/0/1631359736037?e=1766016000&v=beta&t=n0Q-5QedYJUGuceuS_3AA9KHJ6BzOTuqtfL5xMEOqdw",
+      "credentialId": "e8ebe369f585",
+      "skills": ["Leadership", "Communication", "Coordination"]
+    },
+    {
+      "id": "epf-fle",
+      "title": "Programme de Français pour Ingénieurs (Niveau B2.1)",
+      "issuer": "EPF Engineering School",
+      "date": "Juil 2025",
+      "category": "Langues",
+      "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEGztliMvmnZg/company-logo_100_100/company-logo_100_100/0/1737995526471/epf_engineering_school_logo?e=1766016000&v=beta&t=tLqZVF9uQiPbzqm1y8reL-wZGyjmNh4NSgqC7ujUriU",
+      "skills": ["Français Technique", "Communication"]
+    },
+    {
+      "id": "english-c1",
+      "title": "CEFR C1 - Professional Certificate",
+      "issuer": "EnglishScore",
+      "date": "Juil 2024",
+      "category": "Langues",
+      "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGuhySzX3neaA/company-logo_100_100/company-logo_100_100/0/1630535610670/britishcouncilenglishscore_logo?e=1766016000&v=beta&t=nxU9I64NaYpBcPuSbWiA_-nJ8esqPAubpWzXlg3eG0k",
+      "credentialId": "3e15c7082a81",
+      "skills": ["Anglais Avancé"]
+    },
+    {
+      "id": "platzi-ds-python",
+      "title": "Data Scientist avec Python",
+      "issuer": "Platzi",
+      "date": "Oct 2024",
+      "category": "Data Science",
+      "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEOTcHh0HnWwQ/company-logo_100_100/company-logo_100_100/0/1677870818259/platzi_inc_logo?e=1766016000&v=beta&t=j0WYTaWzVCR17JWgyK_3L8UQA2Z46x12naiKy_2LwuM",
+      "credentialId": "41f51111-6ff8",
+      "link": "https://platzi.com/p/josedanielchg/curso/...",
+      "skills": ["Python", "Pandas", "NumPy", "Matplotlib"]
+    },
+    {
+      "id": "google-ml-bolts",
+      "title": "The Nuts and Bolts of Machine Learning",
+      "issuer": "Google",
+      "date": "Août 2024",
+      "category": "Data Science",
+      "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_100_100/B4EZmhegXHGcAU-/0/1759350753990/google_logo?e=1766016000&v=beta&t=fR_FqAATCDGeBCo8yxoQR6JtKXDz3Ws5h7gwSacBtGE",
+      "credentialId": "28SY0PMRLAL6",
+      "skills": ["Apprentissage Supervisé", "Algorithmes ML"]
+    },
+    {
+      "id": "platzi-python-env",
+      "title": "Environnement de Travail Data Science (Jupyter & Anaconda)",
+      "issuer": "Platzi",
+      "date": "Fév 2024",
+      "category": "Développement",
+      "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEOTcHh0HnWwQ/company-logo_100_100/company-logo_100_100/0/1677870818259/platzi_inc_logo?e=1766016000&v=beta&t=j0WYTaWzVCR17JWgyK_3L8UQA2Z46x12naiKy_2LwuM",
+      "skills": ["Jupyter Notebooks", "Anaconda", "Conda"]
+    }
+  ]
+}

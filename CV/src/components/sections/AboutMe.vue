@@ -44,6 +44,10 @@ defineProps({
   grid-template-columns: 1fr 2fr;
   gap: 32px;
   align-items: center;
+
+  @media (max-width: 950px) {
+    grid-template-columns: 1fr;
+  }
 }
 
 .photo-container {
@@ -55,6 +59,10 @@ defineProps({
   border-radius: 50%;
   aspect-ratio: 1/1;
   background: #fff;
+
+  @media (max-width: 950px) {
+    display: none;
+  }
 }
 .photo-container img {
   border-radius: 50%;

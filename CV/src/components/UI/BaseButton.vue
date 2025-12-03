@@ -1,9 +1,9 @@
 <script setup>
 defineProps({
-  href: { type: String, default: '#' },
-  variant: { type: String, default: 'primary' }, // 'primary', 'transparent', 'gray'
-  download: { type: Boolean, default: false }
-})
+  href: { type: String, default: "#" },
+  variant: { type: String, default: "primary" }, // 'primary', 'transparent', 'gray'
+  download: { type: Boolean, default: false },
+});
 </script>
 
 <template>
@@ -24,6 +24,11 @@ defineProps({
   font-weight: 300;
   transition: all 0.3s ease-in-out;
   border: 2px solid;
+
+  @media (max-width: 950px) {
+    font-size: 12px;
+    padding: 10px 26px;
+  }
 }
 
 /* Primary (Blue background, White Text) */

@@ -1,0 +1,75 @@
+{
+  "fr": {
+    "technical": [
+      {
+        "category": "IA & Data",
+        "icon": "fas fa-brain",
+        "skills": [
+          "Python",
+          "Pandas",
+          "NumPy",
+          "Scikit-Learn",
+          "FastAPI",
+          "EDA",
+          "Modélisation prédictive"
+        ]
+      },
+      {
+        "category": "Bases de Données",
+        "icon": "fas fa-database",
+        "skills": [
+          "SQL",
+          "MySQL",
+          "MariaDB",
+          "PostgreSQL",
+          "MongoDB",
+          "SQLite",
+          "Relationnelles",
+          "NoSQL",
+          "Data Lakes"
+        ]
+      },
+      {
+        "category": "Vision par Ordinateur",
+        "icon": "fas fa-eye",
+        "skills": ["OpenCV", "YOLO", "MediaPipe"]
+      },
+      {
+        "category": "Outils & DevOps",
+        "icon": "fas fa-tools",
+        "skills": ["Git", "GitHub", "Docker", "Linux", "Power BI", "Bash"]
+      },
+      {
+        "category": "Développement Web",
+        "icon": "fas fa-laptop-code",
+        "skills": [
+          "PHP",
+          "Laravel",
+          "WordPress",
+          "JavaScript",
+          "Vue.js",
+          "HTML5",
+          "CSS",
+          "Sass",
+          "Node.js"
+        ]
+      }
+    ],
+    "languages": [
+      { "name": "Espagnol", "level": "Langue maternelle", "details": "" },
+      { "name": "Anglais", "level": "C1", "details": "EnglishScore 2024" },
+      { "name": "Français", "level": "B2.1", "details": "EPF, DELF B1 2024" }
+    ],
+    "softSkills": [
+      "Travail en équipe internationale",
+      "Capacité d’apprentissage autonome",
+      "Communication technique",
+      "Résolution de problèmes"
+    ],
+    "interests": [
+      { "name": "Robotique & IA appliquée", "icon": "fas fa-robot" },
+      { "name": "Randonnée & Voyages", "icon": "fas fa-hiking" },
+      { "name": "Éducation & EdTech", "icon": "fas fa-graduation-cap" }
+    ]
+  }
+}

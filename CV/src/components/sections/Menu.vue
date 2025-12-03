@@ -2,11 +2,11 @@
   <div class="menu-container">
     <ul class="menu-list">
       <li class="menu-item"><a href="#formation">Formation</a></li>
-      <li class="menu-item"><a href="#distinctions">Distinctions</a></li>
+      <li class="menu-item"><a href="#compétences">Compétences Techniques</a></li>
       <li class="menu-item"><a href="#projects">Projects</a></li>
+      <li class="menu-item"><a href="#distinctions">Distinctions</a></li>
       <li class="menu-item"><a href="#certifications">Certifications</a></li>
       <li class="menu-item"><a href="#expérience">Expérience Professionnelle</a></li>
-      <li class="menu-item"><a href="#compétences">Compétences Techniques</a></li>
       <li class="menu-item"><a href="#langues">Langues</a></li>
       <li class="menu-item"><a href="#centres">Centres d’intérêt</a></li>
     </ul>
